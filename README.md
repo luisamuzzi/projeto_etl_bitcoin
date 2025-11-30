@@ -15,7 +15,7 @@ Este projeto implementou um pipeline de ETL (Extraction, Transform, Load) para c
 - [1. Ferramentas utilizadas](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#1-ferramentas-utilizadas)
 - [2. Estrutura do código](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#2-estrutura-do-c%C3%B3digo)
 - [3. Estrutura da tabela final](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#3-estrutura-da-tabela-final)
-- [4. Estratégia de solução](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#4-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
+- [4. Estratégia de solução](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#4-estrat%C3%A9gia-de-solu%C3%A7%C3%A3o)
 - [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#5-o-produto-final-do-projeto)
 - [6. Conclusão](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#6-conclus%C3%A3o)
 
