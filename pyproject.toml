@@ -1,0 +1,20 @@
+[project]
+name = "projeto-etl-bitcoin"
+version = "0.1.0"
+description = "Pipeline de Coleta e Armazenamento de Dados do Bitcoin"
+authors = [
+    {name = "Luisa Muzzi",email = "luisamuzzi29@gmail.com"}
+]
+readme = "README.md"
+requires-python = "3.12.5"
+dependencies = [
+    "requests (>=2.32.5,<3.0.0)",
+    "tinydb (>=4.8.2,<5.0.0)",
+    "psycopg2 (>=2.9.11,<3.0.0)",
+    "python-dotenv (>=1.2.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
