@@ -2,7 +2,7 @@
 
 ### Resumo
 
-Este projeto implementou um pipeline de ETL (Extraction, Transform, Load) para coletar, processar e armazenar dados do Bitcoin em um banco de dados PostgreSQL. Um script Python foi usado para:
+Este projeto implementou um pipeline de ETL (Extract, Transform, Load) para coletar, processar e armazenar dados do Bitcoin em um banco de dados PostgreSQL. Um script Python foi usado para:
 
 - Obter as cotações em tempo real por meio da API da Coinbase;
 
