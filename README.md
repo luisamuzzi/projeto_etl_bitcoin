@@ -18,6 +18,7 @@ Este projeto implementou um pipeline de ETL (Extract, Transform, Load) para cole
 - [4. Estratégia de solução](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#4-estrat%C3%A9gia-de-solu%C3%A7%C3%A3o)
 - [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#5-o-produto-final-do-projeto)
 - [6. Conclusão](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#6-conclus%C3%A3o)
+- [7. Referências](https://github.com/luisamuzzi/projeto_etl_bitcoin?tab=readme-ov-file#7-refer%C3%AAncias)
 
 ### 1. Ferramentas utilizadas
 
@@ -113,6 +114,6 @@ Os dados podem ser acessados conectando-se ao banco de dados PostgreSQL por meio
 
 Este projeto criou e automatizou um pipeline de ETL para coleta, transformação e carga de dados do Bitcoin em um banco de dados PostgreSQL por meio de um script Python. Para tanto, foram utilizadas as bibliotecas `requests`, `psycopg2`, `os`, `dotenv`, `datetime` e `time`. A API da Coinbase foi usada para extração dos dados e o banco de dados foi hospedado numa plataforma de nuvem.
 
-### Referências
+### 7. Referências
 
 Esse projeto foi desenvolvido como parte do curso EBA (https://renatabiaggi.com/eba/).
