@@ -115,4 +115,4 @@ Este projeto criou e automatizou um pipeline de ETL para coleta, transformação
 
 ### Referências
 
-Este projeto foi desenvolvido como parte do curso EBA (https://renatabiaggi.com/eba/).
+Esse projeto foi desenvolvido como parte do curso EBA (https://renatabiaggi.com/eba/).
