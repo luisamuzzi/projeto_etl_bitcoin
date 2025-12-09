@@ -112,3 +112,7 @@ Os dados podem ser acessados conectando-se ao banco de dados PostgreSQL por meio
 ### 6. Conclusão
 
 Este projeto criou e automatizou um pipeline de ETL para coleta, transformação e carga de dados do Bitcoin em um banco de dados PostgreSQL por meio de um script Python. Para tanto, foram utilizadas as bibliotecas `requests`, `psycopg2`, `os`, `dotenv`, `datetime` e `time`. A API da Coinbase foi usada para extração dos dados e o banco de dados foi hospedado numa plataforma de nuvem.
+
+### Referências
+
+Este projeto foi desenvolvido como parte do curso EBA (https://renatabiaggi.com/eba/).
